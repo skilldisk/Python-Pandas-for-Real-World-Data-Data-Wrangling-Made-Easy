@@ -18,4 +18,6 @@ Whether you're working with spreadsheets, CSV files, or API data, you'll learn p
 
 🔖 Tag a friend who loves Python!
 
+# Launch in Binder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skilldisk/Python-Pandas-for-Real-World-Data-Data-Wrangling-Made-Easy/main?urlpath=%2Fdoc%2Ftree%2Fjune_22.ipynb)
