@@ -22,3 +22,4 @@ Whether you're working with spreadsheets, CSV files, or API data, you'll learn p
 
 - June-22: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skilldisk/Python-Pandas-for-Real-World-Data-Data-Wrangling-Made-Easy/main?urlpath=%2Fdoc%2Ftree%2Fjune_22.ipynb)
 - August-10: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skilldisk/Python-Pandas-for-Real-World-Data-Data-Wrangling-Made-Easy/main?urlpath=%2Fdoc%2Ftree%2Faug_10.ipynb)
+- September-7: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skilldisk/Python-Pandas-for-Real-World-Data-Data-Wrangling-Made-Easy/main?urlpath=%2Fdoc%2Ftree%2Fseptember_7.ipynb)
